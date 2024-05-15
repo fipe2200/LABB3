@@ -1,0 +1,3 @@
+/Users/filippersson/Desktop/DOA/Labbar/LABB3/cmake-build-debug/CMakeFiles/LABB3.dir
+/Users/filippersson/Desktop/DOA/Labbar/LABB3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/filippersson/Desktop/DOA/Labbar/LABB3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

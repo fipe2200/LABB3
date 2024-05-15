@@ -1,0 +1,23 @@
+# ninja log v5
+6	675	1715118003316404445	CMakeFiles/LABB3.dir/generator/hashtable/hashtable_gen.cpp.o	34a2d951263f28c6
+8	814	1715601826405098350	CMakeFiles/LABB3.dir/main.cpp.o	9255c621fdcd2315
+21	784	1715109901265703526	CMakeFiles/LABB3.dir/search_algorithms/binary_search/binary_search.cpp.o	d6e8d8597ffbf61c
+814	974	1715601826574993871	LABB3	a8d7f57e81f27e05
+10	862	1715090763227527454	CMakeFiles/LABB3.dir/generator/prime/prime_gen.cpp.o	1501d64a76c350e5
+7	657	1715118003288169599	CMakeFiles/LABB3.dir/search_algorithms/hash_table_search/hash_table_search.cpp.o	1927c81f47ae6d1d
+21	566	1715109901046943720	CMakeFiles/LABB3.dir/generator/tree/binary_tree.cpp.o	949a6bff9730c62c
+21	907	1715109901393117771	CMakeFiles/LABB3.dir/measure/measurements.cpp.o	6c1c28fefd8ff2c3
+567	1164	1715109901654903142	CMakeFiles/LABB3.dir/search_algorithms/binary_tree_search/binary_tree_search.cpp.o	7f5ca50848c7e93e
+784	1277	1715109901769438955	CMakeFiles/LABB3.dir/search_algorithms/sequential_search/sequential_search.cpp.o	8c6de87ca46ce9d0
+15	631	1715693429875200472	CMakeFiles/LABB3.dir/search_algorithms/hash_table_search/hash_table_search.cpp.o	1927c81f47ae6d1d
+15	647	1715693429883492537	CMakeFiles/LABB3.dir/generator/hashtable/hashtable_gen.cpp.o	34a2d951263f28c6
+13	845	1715693430090403337	CMakeFiles/LABB3.dir/main.cpp.o	9255c621fdcd2315
+845	1006	1715693430252749974	LABB3	a8d7f57e81f27e05
+7	559	1715695654147582687	CMakeFiles/LABB3.dir/search_algorithms/binary_tree_search/binary_tree_search.cpp.o	7f5ca50848c7e93e
+6	568	1715695654155786975	CMakeFiles/LABB3.dir/generator/tree/binary_tree.cpp.o	949a6bff9730c62c
+6	822	1715695654417545675	CMakeFiles/LABB3.dir/main.cpp.o	9255c621fdcd2315
+822	977	1715695654572719016	LABB3	a8d7f57e81f27e05
+7	705	1715696439560088839	CMakeFiles/LABB3.dir/search_algorithms/binary_tree_search/binary_tree_search.cpp.o	7f5ca50848c7e93e
+7	710	1715696439565283586	CMakeFiles/LABB3.dir/generator/tree/binary_tree.cpp.o	949a6bff9730c62c
+6	1067	1715696439925198439	CMakeFiles/LABB3.dir/main.cpp.o	9255c621fdcd2315
+1067	1235	1715696440094107266	LABB3	a8d7f57e81f27e05
